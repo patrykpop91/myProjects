@@ -1,2 +1,3 @@
 # myProjects
-This repositories shows my own projects.  
+This repositories shows my own projects.
+Hi!
